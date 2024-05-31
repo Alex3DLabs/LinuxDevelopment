@@ -4,7 +4,7 @@ This is where I am going to keep all of my Linux info/cheatsheets
 
 Running the Following
 
-Ubunut
+Ubunutu
 
 Docker
 
