@@ -1,7 +1,6 @@
 # Ubuntu Server
 
-
-
+https://ubuntu.com
 
 Mapping a network drive
 
