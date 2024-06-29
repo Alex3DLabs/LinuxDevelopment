@@ -9,3 +9,5 @@ https://docs.docker.com/engine/install/linux-postinstall/
 # Important Commands
 
 docker compose pull && docker compose up -d
+
+docker ps -a
