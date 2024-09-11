@@ -11,3 +11,7 @@ https://docs.docker.com/engine/install/linux-postinstall/
 docker compose pull && docker compose up -d
 
 docker ps -a
+
+https://docs.docker.com/reference/cli/docker/container/rm/
+
+https://docs.docker.com/reference/cli/docker/container/stop/
